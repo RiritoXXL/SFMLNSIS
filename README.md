@@ -1,2 +1,2 @@
 # SFMLNSIS
-SFMLNSIS by RiritoXXL
+**WIP!!!(WORK IN PROGRESS!!!)**
